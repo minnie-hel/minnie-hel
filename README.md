@@ -84,8 +84,8 @@ I enjoy building innovative systems that solve real-world problems in education,
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=minnie-hel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=minnie-he&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=minnie-hel&icon=7&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=minnie-he&icon=7&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
