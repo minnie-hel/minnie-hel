@@ -67,14 +67,14 @@ I enjoy building innovative systems that solve real-world problems in education,
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wilhelminafita&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=wilhelminafita&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilhelminafita&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=minnie-hel&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=minnie-hel&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=minnie-hel&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wilhelminafita&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=minnie-hel&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -84,8 +84,8 @@ I enjoy building innovative systems that solve real-world problems in education,
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wilhelminafita&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=minnie-hel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=wilhelminafita&icon=7&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=minnie-hel&icon=7&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
